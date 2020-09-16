@@ -1,0 +1,10 @@
+#header {
+    background-color: greenyellow;
+}
+.navbar .lists{
+    list-style: none;
+    display: flex;
+}
+.lists li{
+    margin: 10px;
+}
